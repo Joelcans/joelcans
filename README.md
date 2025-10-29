@@ -31,8 +31,8 @@
 ┌───────────────────────────────────────────────┐
 │ Level: 2nd Year B.Tech (Robotics & AI)        │
 │ Class: Robotics & AI Engineer                 │
-│ CGPA: 8.58/10                                  │
-│ Status: ⚡ Active Quest Seeker (Internships)   │
+│ CGPA: 8.58/10                                 │
+│ Status: ⚡ Active Quest Seeker (Internships  |
 └───────────────────────────────────────────────┘
 ```
 
